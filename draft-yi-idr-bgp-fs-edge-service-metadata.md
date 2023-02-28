@@ -7,8 +7,8 @@ category: std
 submissionType: IETF
 
 ipr: trust200902
-area: Routing Area
-workgroup: IDR
+area: "Routing"
+workgroup: "Inter-Domain Routing"
 keyword: Internet-Draft
 
 author:

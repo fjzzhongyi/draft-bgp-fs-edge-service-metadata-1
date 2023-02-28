@@ -3,8 +3,6 @@ title: Distribution of Service Metadata in BGP FlowSpec
 abbrev: Service Metadata in BGP FlowSpec
 docname: draft-yi-idr-bgp-fs-edge-service-metadata-lastest
 obsoletes:
-updates:
-date:
 category: std
 submissionType: IETF
 

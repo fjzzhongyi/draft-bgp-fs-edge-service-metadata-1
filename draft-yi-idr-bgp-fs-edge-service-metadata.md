@@ -9,7 +9,6 @@ submissionType: IETF
 ipr: trust200902
 area: "Routing"
 workgroup: "Inter-Domain Routing"
-keyword: Internet-Draft
 
 author:
  -
